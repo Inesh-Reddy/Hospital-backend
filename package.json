@@ -1,0 +1,16 @@
+{
+  "name": "in-memory-kidney-store",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "nodemon && node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}

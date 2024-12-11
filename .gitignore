@@ -1,0 +1,40 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+bower_components/
+
+# Build output
+/dist/
+/build/
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# npm package lock files (optional, depending on your needs)
+# package-lock.json
+# yarn.lock
+
+# Test and coverage directories
+/coverage/
+/test-coverage/
+
+# TypeScript and other transpiled files (if applicable)
+*.tsbuildinfo
+
+# Other files to ignore (optional)
+*.tgz
+
